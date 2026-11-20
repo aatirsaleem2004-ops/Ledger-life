@@ -1,0 +1,8 @@
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/launcher/ledgerbird_icon.png"
+  adaptive_icon_background: "#F7F4EC"
+  adaptive_icon_foreground: "assets/launcher/ledgerbird_icon.png"
+  adaptive_icon_foreground_inset: 12
+  min_sdk_android: 21
